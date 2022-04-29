@@ -1,2 +1,2 @@
 # python-commons
-Repository to save commons command and snippets
+Repository with frequent python snippets
